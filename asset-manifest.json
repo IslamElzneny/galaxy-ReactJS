@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/galaxy-ReactJS/static/css/main.bd8e80b2.css",
+    "main.js": "/galaxy-ReactJS/static/js/main.469042ca.js",
+    "static/js/787.625ac415.chunk.js": "/galaxy-ReactJS/static/js/787.625ac415.chunk.js",
+    "static/media/space-background_01.jpg": "/galaxy-ReactJS/static/media/space-background_01.eb2439a843ae1f00ad4f.jpg",
+    "static/media/chating-room.png": "/galaxy-ReactJS/static/media/chating-room.3ffecc73a28925a4b15f.png",
+    "static/media/p4.jpg": "/galaxy-ReactJS/static/media/p4.96053f643085542ee5a9.jpg",
+    "static/media/p5.jpg": "/galaxy-ReactJS/static/media/p5.4cce515439e4163194ef.jpg",
+    "static/media/p3.jpg": "/galaxy-ReactJS/static/media/p3.cdad7a99f4c92207cf5d.jpg",
+    "static/media/p2.jpg": "/galaxy-ReactJS/static/media/p2.0a2212dda8fbb06ed6f9.jpg",
+    "static/media/p1.jpg": "/galaxy-ReactJS/static/media/p1.1e9f60c6f48e9b194284.jpg",
+    "static/media/logo.png": "/galaxy-ReactJS/static/media/logo.a3a6eafb872c1cc3afe5.png",
+    "static/media/login_logo.png": "/galaxy-ReactJS/static/media/login_logo.51ba0c1b78b36fc0b703.png",
+    "static/media/signUp_logo.png": "/galaxy-ReactJS/static/media/signUp_logo.aad95a62744db955c013.png",
+    "index.html": "/galaxy-ReactJS/index.html",
+    "main.bd8e80b2.css.map": "/galaxy-ReactJS/static/css/main.bd8e80b2.css.map",
+    "main.469042ca.js.map": "/galaxy-ReactJS/static/js/main.469042ca.js.map",
+    "787.625ac415.chunk.js.map": "/galaxy-ReactJS/static/js/787.625ac415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd8e80b2.css",
+    "static/js/main.469042ca.js"
+  ]
+}
